@@ -15,8 +15,34 @@ function publicPath(){
 // vue.config.js
 module.exports = {
 	// publicPath:"././",
-	// 9802
 	publicPath: publicPath(),
+	// 与 admin 一致：Dart Sass 编译 element-ui 相关 SCSS 时减少弃用告警刷屏
+	css: {
+		loaderOptions: {
+			sass: {
+				sassOptions: {
+					silenceDeprecations: [
+						'legacy-js-api',
+						'import',
+						'global-builtin',
+						'color-functions',
+						'function-units',
+					],
+				},
+			},
+			scss: {
+				sassOptions: {
+					silenceDeprecations: [
+						'legacy-js-api',
+						'import',
+						'global-builtin',
+						'color-functions',
+						'function-units',
+					],
+				},
+			},
+		},
+	},
 	// 国际化配置 使用其它语言，默认情况下中文语言包依旧是被引入的
 	configureWebpack: {
 		plugins: [
@@ -35,7 +61,7 @@ module.exports = {
 			}
 		}
 	},
-lintOnSave: false,
+	lintOnSave: false,
 	devServer: {
 		host: "localhost", // 固定使用 localhost，避免 CLI 显示系统 hostname
 		port: 8082, //指定端口

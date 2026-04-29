@@ -61,7 +61,7 @@ module.exports = {
 			}
 		}
 	},
-lintOnSave: false,
+	lintOnSave: false,
 	devServer: {
 		host: "localhost", // 固定使用 localhost，避免 CLI 显示系统 hostname
 		port: 8081, //指定端口
