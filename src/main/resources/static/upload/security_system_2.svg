@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#4d2517"/>
+  <rect x="60" y="60" width="1080" height="600" rx="32" fill="#7b3a24"/>
+  <text x="90" y="190" fill="#ffd39a" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">Drill And Rescue</text>
+  <text x="90" y="320" fill="#ffffff" font-size="68" font-family="PingFang SC, Microsoft YaHei, sans-serif">风险识别与应急处置</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#12213a"/>
+  <rect x="48" y="48" width="1104" height="624" rx="32" fill="#19325a" stroke="#68f0d8" stroke-width="4"/>
+  <text x="90" y="170" fill="#68f0d8" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">National Security</text>
+  <text x="90" y="300" fill="#ffffff" font-size="60" font-family="PingFang SC, Microsoft YaHei, sans-serif">大学生国家安全教育</text>
+  <text x="90" y="390" fill="#d1fff7" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">国际关系学院</text>
+  <text x="90" y="500" fill="#c6d9ea" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">总体国家安全观 / 保密意识 / 风险辨识</text>
+  <rect x="908" y="148" width="140" height="140" rx="24" fill="#68f0d8"/>
+  <path d="M978 178 L1020 208 L1010 260 L946 260 L936 208 Z" fill="#19325a"/>
+</svg>

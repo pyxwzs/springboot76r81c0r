@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#173a2f"/>
+  <rect x="52" y="52" width="1096" height="616" rx="30" fill="#235947" stroke="#a4ffd8" stroke-width="4"/>
+  <text x="90" y="170" fill="#a4ffd8" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Traffic Safety</text>
+  <text x="90" y="300" fill="#ffffff" font-size="58" font-family="PingFang SC, Microsoft YaHei, sans-serif">大学生交通安全教育</text>
+  <text x="90" y="390" fill="#e0fff1" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">吉林警察学院</text>
+  <text x="90" y="500" fill="#d7f0e7" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">步行守则 / 骑行规范 / 夜间出行 / 事故避险</text>
+  <path d="M918 286 H1062 V316 H918 Z" fill="#a4ffd8"/>
+  <circle cx="952" cy="348" r="34" fill="#a4ffd8"/>
+  <circle cx="1028" cy="348" r="34" fill="#a4ffd8"/>
+</svg>

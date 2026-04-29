@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#1f2437"/>
+  <rect x="50" y="50" width="1100" height="620" rx="30" fill="#2c3656" stroke="#a5ffb8" stroke-width="4"/>
+  <text x="90" y="170" fill="#a5ffb8" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Anti Fraud</text>
+  <text x="90" y="300" fill="#ffffff" font-size="56" font-family="PingFang SC, Microsoft YaHei, sans-serif">大学生防电信网络诈骗</text>
+  <text x="90" y="390" fill="#e0ffe6" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">公安部刑侦局</text>
+  <text x="90" y="500" fill="#dbe4f3" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">刷单返利 / 冒充客服 / 校园贷 / 转账核验</text>
+  <circle cx="984" cy="230" r="92" fill="#a5ffb8"/>
+  <rect x="944" y="200" width="80" height="60" rx="12" fill="#2c3656"/>
+  <text x="958" y="240" fill="#a5ffb8" font-size="28" font-family="Arial, sans-serif">¥</text>
+</svg>

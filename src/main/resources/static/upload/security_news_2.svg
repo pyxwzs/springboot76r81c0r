@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#512a1a"/>
+  <rect x="60" y="60" width="1080" height="600" rx="32" fill="#7a432b"/>
+  <text x="90" y="180" fill="#ffd39d" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Emergency Notice</text>
+  <text x="90" y="300" fill="#ffffff" font-size="64" font-family="PingFang SC, Microsoft YaHei, sans-serif">消防与应急演练</text>
+  <text x="90" y="400" fill="#ffeed7" font-size="32" font-family="PingFang SC, Microsoft YaHei, sans-serif">增强避险、自救、互救与疏散能力</text>
+</svg>

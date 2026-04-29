@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#133b5c"/>
+  <rect x="60" y="60" width="1080" height="600" rx="32" fill="#1f5f8b"/>
+  <text x="90" y="180" fill="#8fe3ff" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Safety Bulletin</text>
+  <text x="90" y="300" fill="#ffffff" font-size="64" font-family="PingFang SC, Microsoft YaHei, sans-serif">校园安全提示</text>
+  <text x="90" y="400" fill="#d8f4ff" font-size="32" font-family="PingFang SC, Microsoft YaHei, sans-serif">聚焦宿舍、消防、实验室与网络风险</text>
+</svg>

@@ -1,0 +1,57 @@
+# --- Java / Maven ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# --- Node (Vue CLI) ---
+node_modules/
+frontend-admin/node_modules/
+frontend-user/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# build output
+frontend-admin/dist/
+frontend-user/dist/
+*.local
+
+# cache
+frontend-admin/.cache/
+frontend-user/.cache/
+**/.cache/
+
+# --- IDE ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.factorypath
+.vscode/*
+!.vscode/extensions.json
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- logs & temp ---
+*.log
+*.tmp
+*.swp
+*~
+
+# --- env (do not commit secrets) ---
+.env
+.env.*.local

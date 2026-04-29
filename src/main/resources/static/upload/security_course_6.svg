@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#203447"/>
+  <rect x="50" y="50" width="1100" height="620" rx="30" fill="#2f506d" stroke="#aee1ff" stroke-width="4"/>
+  <text x="90" y="170" fill="#aee1ff" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Lab Safety</text>
+  <text x="90" y="300" fill="#ffffff" font-size="60" font-family="PingFang SC, Microsoft YaHei, sans-serif">实验室安全教育</text>
+  <text x="90" y="390" fill="#dbf3ff" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">大连理工大学</text>
+  <text x="90" y="500" fill="#d3e7f7" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">危化品管理 / PPE 穿戴 / 仪器操作 / 应急处置</text>
+  <path d="M930 150 L1050 150 L1020 210 L1020 300 Q1020 330 990 330 Q960 330 960 300 L960 210 Z" fill="#aee1ff"/>
+  <circle cx="990" cy="248" r="40" fill="#2f506d"/>
+</svg>

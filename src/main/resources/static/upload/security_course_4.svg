@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#541d1d"/>
+  <rect x="52" y="52" width="1096" height="616" rx="32" fill="#7a2525" stroke="#ffb28f" stroke-width="4"/>
+  <text x="90" y="170" fill="#ffb28f" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Fire Safety</text>
+  <text x="90" y="300" fill="#ffffff" font-size="58" font-family="PingFang SC, Microsoft YaHei, sans-serif">高校学生消防安全教育</text>
+  <text x="90" y="390" fill="#ffe0d1" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">中国消防</text>
+  <text x="90" y="500" fill="#f5dbd1" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">火灾预防 / 灭火器材 / 宿舍消防 / 应急疏散</text>
+  <rect x="928" y="146" width="104" height="160" rx="20" fill="#ffb28f"/>
+  <rect x="952" y="126" width="56" height="28" rx="12" fill="#ffb28f"/>
+  <rect x="952" y="190" width="56" height="70" rx="12" fill="#7a2525"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#5c2818"/>
+  <rect x="50" y="50" width="1100" height="620" rx="30" fill="#8b3c22" stroke="#ffd69e" stroke-width="4"/>
+  <text x="90" y="170" fill="#ffd69e" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Into Fire Rescue</text>
+  <text x="90" y="300" fill="#ffffff" font-size="66" font-family="PingFang SC, Microsoft YaHei, sans-serif">走进消防</text>
+  <text x="90" y="390" fill="#fff0d4" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">应急管理部</text>
+  <text x="90" y="500" fill="#fde8cc" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">消防常识 / 逃生训练 / 风险排查 / 应急演练</text>
+  <path d="M990 150 C1040 210,1050 280,990 320 C930 280,940 210,990 150 Z" fill="#ffd69e"/>
+  <path d="M990 198 C1018 236,1018 272,990 296 C962 272,962 236,990 198 Z" fill="#8b3c22"/>
+</svg>

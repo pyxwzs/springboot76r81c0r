@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#0d2940"/>
+  <rect x="50" y="50" width="1100" height="620" rx="30" fill="#124466" stroke="#8ee6ff" stroke-width="4"/>
+  <text x="90" y="170" fill="#8ee6ff" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Cyber Security</text>
+  <text x="90" y="300" fill="#ffffff" font-size="58" font-family="PingFang SC, Microsoft YaHei, sans-serif">大学生网络安全与防范</text>
+  <text x="90" y="390" fill="#d7f7ff" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">公安部网安局</text>
+  <text x="90" y="500" fill="#d9eaf5" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">账号保护 / 信息泄露 / 钓鱼链接 / 社交平台安全</text>
+  <rect x="916" y="148" width="148" height="184" rx="26" fill="#8ee6ff"/>
+  <rect x="944" y="214" width="92" height="86" rx="16" fill="#124466"/>
+  <rect x="964" y="178" width="52" height="44" rx="20" fill="#124466"/>
+</svg>

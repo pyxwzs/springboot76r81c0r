@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#3a2a1c"/>
+  <rect x="50" y="50" width="1100" height="620" rx="30" fill="#5a422d" stroke="#ffc77d" stroke-width="4"/>
+  <text x="92" y="170" fill="#ffc77d" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">Emergency Escape</text>
+  <text x="92" y="300" fill="#ffffff" font-size="60" font-family="PingFang SC, Microsoft YaHei, sans-serif">灾难逃生与自救</text>
+  <text x="92" y="390" fill="#ffe1b1" font-size="36" font-family="PingFang SC, Microsoft YaHei, sans-serif">同济大学</text>
+  <text x="92" y="500" fill="#f2e6d8" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">地震 / 火灾 / 疏散路线 / 自救互救</text>
+  <polygon points="960,150 1040,286 880,286" fill="#ffc77d"/>
+  <rect x="950" y="205" width="20" height="44" fill="#5a422d"/>
+  <circle cx="960" cy="266" r="10" fill="#5a422d"/>
+</svg>
