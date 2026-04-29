@@ -3,10 +3,9 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"serve": "cross-env HOST=localhost PORT=8081 NODE_OPTIONS=--openssl-legacy-provider vue-cli-service serve",
-		"build": "cross-env NODE_OPTIONS=--openssl-legacy-provider vue-cli-service build",
-		"svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml",
-		"lint": "vue-cli-service lint"
+		"install": "npm install",
+		"serve": "cross-env HOST=localhost PORT=8081 vue-cli-service serve",
+		"build": "vue-cli-service build"
 	},
 	"dependencies": {
 		"@amap/amap-jsapi-loader": "^1.0.1",
